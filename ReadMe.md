@@ -1,1 +1,2 @@
-https://www.builder.io/blog/debug-nodejs
+- https://www.builder.io/blog/debug-nodejs
+- https://www.freecodecamp.org/news/advanced-sql-techniques/
