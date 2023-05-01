@@ -2,3 +2,4 @@
 - https://www.freecodecamp.org/news/advanced-sql-techniques/
 - https://google.github.io/styleguide/javascriptguide.xml#Constants
 - https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke
+- https://dzone.com/articles/software-deployment-best-practices
