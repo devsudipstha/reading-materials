@@ -4,3 +4,6 @@
 - https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke
 - https://dzone.com/articles/software-deployment-best-practices
 - https://www.wearedevelopers.com/magazine/best-tools-backend-development
+- https://blog.stackademic.com/react-js-mastering-react-js-solid-principles-dfb48d03e565
+- https://medium.com/version-1/difference-between-promise-and-async-await-95e453182f55
+- https://medium.com/@nelson_examiner/building-custom-react-hooks-for-calling-apis-ab82a6b45ff
