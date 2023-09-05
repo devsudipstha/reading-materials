@@ -7,3 +7,4 @@
 - https://blog.stackademic.com/react-js-mastering-react-js-solid-principles-dfb48d03e565
 - https://medium.com/version-1/difference-between-promise-and-async-await-95e453182f55
 - https://medium.com/@nelson_examiner/building-custom-react-hooks-for-calling-apis-ab82a6b45ff
+- https://medium.com/bytebytego-system-design-alliance/system-design-blueprint-the-ultimate-guide-e27b914bf8f1
