@@ -8,3 +8,4 @@
 - https://medium.com/version-1/difference-between-promise-and-async-await-95e453182f55
 - https://medium.com/@nelson_examiner/building-custom-react-hooks-for-calling-apis-ab82a6b45ff
 - https://medium.com/bytebytego-system-design-alliance/system-design-blueprint-the-ultimate-guide-e27b914bf8f1
+- https://levelup.gitconnected.com/8-advanced-javascript-interview-questions-for-senior-roles-c59e1b0f83e1
