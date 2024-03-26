@@ -10,3 +10,4 @@
 - https://medium.com/bytebytego-system-design-alliance/system-design-blueprint-the-ultimate-guide-e27b914bf8f1
 - https://levelup.gitconnected.com/8-advanced-javascript-interview-questions-for-senior-roles-c59e1b0f83e1
 - https://medium.com/stackademic/react-native-masters-solid-principles-in-react-react-native-a1b8df8d261d
+- https://dev.to/lilxyzz/2024-cheat-sheet-collection-47h8?ref=dailydev
