@@ -12,3 +12,12 @@
 - https://medium.com/stackademic/react-native-masters-solid-principles-in-react-react-native-a1b8df8d261d
 - https://dev.to/lilxyzz/2024-cheat-sheet-collection-47h8?ref=dailydev
 - https://dev.to/mohammadfaisal/nodejs-security-best-practices-34ck?ref=dailydev
+
+  Tech Bloggers
+  - https://www.uber.com/en-US/blog/engineering/
+  - https://engineering.fb.com/
+  - https://engineering.linkedin.com/
+  - https://discord.com/blog/
+  - https://aws.amazon.com/blogs/architecture/
+  - https://slack.engineering/
+  - https://stripe.com/blog
