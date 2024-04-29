@@ -21,3 +21,5 @@
   - https://aws.amazon.com/blogs/architecture/
   - https://slack.engineering/
   - https://stripe.com/blog
+  - https://refactoring.guru/
+  - https://exercism.org/
